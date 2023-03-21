@@ -20,3 +20,7 @@ Tampoco podemos tocar ningún fichero .html. Tampoco podéis usar la regla !impo
 7. (MUY DIFÍCIL): Queremos que la destinación de Spain este encuadrada con un borde de puntitos de 10 px
 
 <img src="https://oscarm.tinytake.com/media/142fc85?filename=1679347133283_TinyTake20-03-2023-10-18-50_638149439330011289.png&sub_type=thumbnail_preview&type=attachment&width=234&height=214" title="Powered by TinyTake Screen Capture"/><br>
+
+## Resultado esperado aproximado
+
+<img src="https://oscarm.tinytake.com/media/14303f5?filename=1679384319400_TinyTake21-03-2023-08-38-35_638149811171602560.png&sub_type=thumbnail_preview&type=attachment&width=1199&height=550" title="Powered by TinyTake Screen Capture"/><br>
