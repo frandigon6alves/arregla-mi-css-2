@@ -1,1 +1,23 @@
-/* Suerte :-) */
+div#hero-content a{
+ background-color: rgb(255, 251, 0);
+}
+
+footer {
+    display: flex;
+    justify-content: center;  
+}
+
+strong.destination__spain {
+    color:red;
+}
+
+#hero {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#hero-content {
+top: 30%;
+
+}
